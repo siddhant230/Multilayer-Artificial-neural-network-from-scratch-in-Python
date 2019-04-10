@@ -1,4 +1,4 @@
-# Multilayer-Artificial-neurak-network-from-scratch-in-Python
+# Multilayer-Artificial-neural-network-from-scratch-in-Python
 
 this particular implementation involves solving LOGIC GATES problem.
 I took reference of many websites as well as few books and youtube videos.
